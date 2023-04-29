@@ -1,0 +1,10 @@
+{
+  "extends": "@rocketseat/eslint-config/react",
+  "rules": {
+    "react/no-unknown-property": "off",
+    "react/no-unescaped-entities": "off",
+    "jsx-a11y/alt-text": "off"
+  }
+  // "extends": "@rocketseat/eslint-config/node",
+
+}
